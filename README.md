@@ -31,13 +31,6 @@ print(manuel.intro())
 print(manuel.goal())
 ```
 
-
-## :computer: Technologies I Love
-* Backend development
-* Data Engineering
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomcan&layout=compact">
-
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -47,7 +40,6 @@ print(manuel.goal())
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ## Development tools, cloud...
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,8 +47,6 @@ print(manuel.goal())
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 
 ## 📈 Current Works
 - Building web applications with **Flask** and **Python**
@@ -67,7 +57,8 @@ print(manuel.goal())
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.
-
+    
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomcan&layout=compact">
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuelgomcan&show_icons=true&hide=[%22issues%22])
  
 <!---
