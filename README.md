@@ -34,7 +34,7 @@
  ```
  
 ## Current Works
- * I am currently working with **Python**, for building Web Applications **(Flask)** and Data Engineering. Also working in my degree with **Java, Spring, Kotlin (Android)**, among others.
+ * I am currently working with **Python**, for building Web Applications **(Flask)** and Data Engineering. Also working on my degree with **Java**, **Spring**, **Kotlin** (Android), among others.
  * Also, I am focused on improving my Data & Cloud Engineering skills, learning tools such as **AWS, Terraform** or **Spark**.
  
 ## Other Stuff
@@ -43,11 +43,10 @@
 
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuelgomcan&show_icons=true&hide=[%22issues%22])
  
- -------
+<!---
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
 
 Last Edited on: 18/12/2020
-<!---
 manuelgomcan/manuelgomcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
