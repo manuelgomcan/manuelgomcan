@@ -1,7 +1,7 @@
 
 ### Welcome,[Manuel here!]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
 
 ## :computer: Technologies I Love
 * Backend development
@@ -22,7 +22,7 @@
 				'Gym',
 				'Code',
 				'Watching Anime',
-				''
+				
 			]
 	
 	def getCity():
@@ -30,8 +30,8 @@
 	
 	def Ambitions():
 		learn_german()
-    improve_my_physique()
-    learn_ai_development()
+    		improve_my_physique()
+    		learn_ai_development()
 	
  ```
  
