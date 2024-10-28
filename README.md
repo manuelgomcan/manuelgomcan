@@ -1,5 +1,7 @@
 
-### Welcome, Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome! Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm a backend developer passionate about data engineering and always eager to learn new technologies and skills. Based in Alicante, Spain, I enjoy working with **Python**, **AWS** to create efficient and scalable applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
 
@@ -7,13 +9,40 @@
 ```python
 class WhoAmI:
     user = 'Manuel Gómez'
-    hobbies = ['Gym 🏋️', 'Coding 💻', 'Watching Anime 📺']
+    location = 'Alicante, Spain'
+    hobbies = ['Gym 🏋️', 'Coding 💻']
+    values = ['Problem solving', 'Continuous learning', 'Teamwork']
+
+    ambitions_list = ['Learn German 🇩🇪', 'Master Data Science 📊', 'Contribute to Open Source 🌍']
     
     def get_city(self):
-        return 'Alicante, Spain'
+        return self.location
+    
+    def show_values(self):
+        print(f"My core values are: {', '.join(self.values)}")
     
     def ambitions(self):
-        return ['Learn German 🇩🇪', 'Data Science Mastery 📊']
+        return self.ambitions_list
+    
+    def add_ambition(self, ambition):
+        self.ambitions_list.append(ambition)
+    
+    def greet(self):
+        print(f"Hi there! I'm {self.user} from {self.location}.")
+        print("I enjoy working on backend development, data engineering, and cloud technologies.")
+        print("Feel free to reach out if you want to collaborate!")
+    
+    def __str__(self):
+        return f"{self.user}, a passionate developer from {self.location} with interests in {', '.join(self.hobbies)}."
+
+manuel = WhoAmI()
+manuel.greet()
+manuel.show_values()
+manuel.add_ambition("Explore Machine Learning 🤖")
+print(f"Ambitions: {manuel.ambitions()}")
+print(manuel)
+
+
 ```
 
 
@@ -39,9 +68,11 @@ class WhoAmI:
 
 
 
-## Current Works
- * I am currently working with **Python**, for building Web Applications **(Flask)** and Data Engineering. Also working on my degree with **Java**, **Spring**, **Kotlin** (Android), among others.
- * Also, I am focused on improving my Data & Cloud Engineering skills, learning tools such as **AWS, Terraform** or **Spark**.
+## 📈 Current Works
+- Building web applications with **Flask** and **Python**
+- Data engineering with tools like **AWS Glue** and **Spark**
+- Backend development and mobile apps with **Java (Spring Boot)** and **Kotlin** 
+
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
