@@ -10,38 +10,25 @@ I'm a backend developer passionate about data engineering and always eager to le
 class WhoAmI:
     user = 'Manuel Gómez'
     location = 'Alicante, Spain'
-    hobbies = ['Gym 🏋️', 'Coding 💻']
+    skills = ['Python', 'Flask', 'AWS', 'Docker', 'Java', 'Kotlin']
     values = ['Problem solving', 'Continuous learning', 'Teamwork']
-
-    ambitions_list = ['Learn German 🇩🇪', 'Master Data Science 📊', 'Contribute to Open Source 🌍']
+    current_focus = [
+        'Backend development with Python (Flask) 🐍',
+        'AWS Cloud Engineering ☁️',
+        'Exploring Data Engineering 📊'
+    ]
     
-    def get_city(self):
-        return self.location
+    def intro(self):
+        return (f"Hi, I'm {self.user} from {self.location}. "
+                f"My core skills include {', '.join(self.skills)}, "
+                f"and I value {', '.join(self.values)}.")
     
-    def show_values(self):
-        print(f"My core values are: {', '.join(self.values)}")
-    
-    def ambitions(self):
-        return self.ambitions_list
-    
-    def add_ambition(self, ambition):
-        self.ambitions_list.append(ambition)
-    
-    def greet(self):
-        print(f"Hi there! I'm {self.user} from {self.location}.")
-        print("I enjoy working on backend development, data engineering, and cloud technologies.")
-        print("Feel free to reach out if you want to collaborate!")
-    
-    def __str__(self):
-        return f"{self.user}, a passionate developer from {self.location} with interests in {', '.join(self.hobbies)}."
+    def goal(self):
+        return f"My current focus: {self.current_focus}"
 
 manuel = WhoAmI()
-manuel.greet()
-manuel.show_values()
-manuel.add_ambition("Explore Machine Learning 🤖")
-print(f"Ambitions: {manuel.ambitions()}")
-print(manuel)
-
+print(manuel.intro())
+print(manuel.goal())
 
 ```
 
