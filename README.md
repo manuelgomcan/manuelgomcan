@@ -19,17 +19,16 @@ class WhoAmI:
     ]
     
     def intro(self):
-        return (f"Hi, I'm {self.user} from {self.location}. "
-                f"My core skills include {', '.join(self.skills)}, "
+        return (f"Hi, I'm {self.user} from {self.location}.\n"
+                f"My core skills include {', '.join(self.skills)},"
                 f"and I value {', '.join(self.values)}.")
     
     def goal(self):
-        return f"My current focus: {self.current_focus}"
+        return "My current focus:\n- " + "\n- ".join(self.current_focus)
 
 manuel = WhoAmI()
 print(manuel.intro())
 print(manuel.goal())
-
 ```
 
 
