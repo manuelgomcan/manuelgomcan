@@ -1,12 +1,11 @@
 
-### Welcome,[Manuel here!]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome, Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
 
 ## :computer: Technologies I Love
 * Backend development
 * Data Engineering
-* Machine Learning
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
@@ -21,8 +20,7 @@
 	hobbies = [
 				'Gym',
 				'Code',
-				'Watching Anime',
-				
+				'Watching Anime'
 			]
 	
 	def getCity():
@@ -36,14 +34,14 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
+ * I am currently working with **Python**, for building Web Applications **(Flask)** and Data Engineering. Also working in my degree with **Java, Spring, Kotlin (Android)**, among others.
+ * Also, I am focused on improving my Data & Cloud Engineering skills, learning tools such as **AWS, Terraform** or **Spark**.
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuelgomcan&show_icons=true&hide=[%22issues%22])
  
  -------
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
