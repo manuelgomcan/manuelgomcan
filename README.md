@@ -1,6 +1,6 @@
 
-### Welcome! Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+# Welcome! Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+##### Upcoming Projects 🚀 Stay tuned! I am currently working on exciting projects that will be available soon.
 I'm a backend developer passionate about data engineering and always eager to learn new technologies and skills. Based in Alicante, Spain, I enjoy working with **Python**, **AWS** to create efficient and scalable applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
