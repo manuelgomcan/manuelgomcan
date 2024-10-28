@@ -58,9 +58,9 @@ print(manuel.goal())
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me.
     
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomcan&layout=compact">
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuelgomcan&show_icons=true&hide=[%22issues%22])
- 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomcan&layout=compact">
+
 <!---
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
 
