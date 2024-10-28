@@ -3,25 +3,18 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
 
- ## Who am I?
- ```python
- class WhoAmI:
-	user = 'Manuel Gómez'
-	hobbies = [
-				'Gym',
-				'Code',
-				'Watching Anime'
-			]
-	
-	def getCity():
-		return Alicante_Spain()
-	
-	def Ambitions():
-		learn_german()
-		improve_my_physique()
-		learn_ai_development()
-	
- ```
+## 👨‍💻 Who am I?
+```python
+class WhoAmI:
+    user = 'Manuel Gómez'
+    hobbies = ['Gym 🏋️', 'Coding 💻', 'Watching Anime 📺']
+    
+    def get_city(self):
+        return 'Alicante, Spain'
+    
+    def ambitions(self):
+        return ['Learn German 🇩🇪', 'Data Science Mastery 📊']
+
 
 ## :computer: Technologies I Love
 * Backend development
