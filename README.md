@@ -4,7 +4,8 @@
 I'm a backend developer passionate about data engineering and always eager to learn new technologies and skills. Based in Alicante, Spain, I enjoy working with **Python**, **AWS** to create efficient and scalable applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
-:octocat: [My Resume](https://drive.google.com/file/d/17ASXq1KZVOJylW7Xvs48MVYbW-3HU2gv/view?usp=sharing)
+####:octocat: **[My Resume]**(https://drive.google.com/file/d/17ASXq1KZVOJylW7Xvs48MVYbW-3HU2gv/view?usp=sharing)
+
 ## 👨‍💻 Who am I?
 ```python
 class WhoAmI:
