@@ -1,10 +1,10 @@
 
 # Welcome! Manuel here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### Upcoming Projects 🚀 Stay tuned! I am currently working on exciting projects that will be available soon.
-I'm a backend developer passionate about data engineering and always eager to learn new technologies and skills. Based in Alicante, Spain, I enjoy working with **Python**, **AWS** to create efficient and scalable applications.
+I'm a software developer from Alicante, Spain. Passionate about data engineering and always eager to learn new technologies and skills. Currently exploring data engineering on cloud environments and machine learning.
 
-[![Linkedin Badge](https://img.shields.io/badge/-manuelgomcan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelgomcan)](https://www.linkedin.com/in/manuelgomcan) [![Gmail Badge](https://img.shields.io/badge/-manuelgomezcandelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelgomezcandelas@gmail.com)](mailto:manuelgomezcandelas@gmail.com)
-#### :octocat: [My Resume](https://drive.google.com/file/d/1z4HhGn-BORaGqS9kSTXz2fUxcmKTJTUE/view?usp=sharing)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manuelgomcan) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:manuelgomezcandelas@gmail.com)
 ## 👨‍💻 Who am I?
 ```python
 class WhoAmI:
@@ -31,22 +31,11 @@ print(manuel.intro())
 print(manuel.goal())
 ```
 
-## Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Languages and Frameworks
+[![Languages](https://skillicons.dev/icons?i=java,spring,python,kotlin,androidstudio,&perline=5)](https://skillicons.dev)
 
 ## Development tools, cloud...
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![DevTools](https://skillicons.dev/icons?i=aws,azure,docker,mongodb,mysql,git,gradle&perline=5)](https://skillicons.dev)
 
 ## 📈 Current Works
 - Building web applications with **Flask** and **Python**
@@ -58,11 +47,3 @@ If you have any suggestions to this README, feel free to inform me.
     
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuelgomcan&show_icons=true&hide=[%22issues%22])
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomcan&layout=compact">
-
-<!---
-Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
-
-Last Edited on: 18/12/2020
-manuelgomcan/manuelgomcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
