@@ -10,12 +10,11 @@ I'm a software developer from Alicante, Spain. Passionate about data engineering
 class WhoAmI:
     user = 'Manuel Gómez'
     location = 'Alicante, Spain'
-    skills = ['Python', 'Flask', 'AWS', 'Docker', 'Java', 'Kotlin']
+    skills = ['Python', 'AWS', 'Docker', 'Java', 'Kotlin']
     values = ['Problem solving', 'Continuous learning', 'Teamwork']
     current_focus = [
-        'Backend development with Python (Flask) 🐍',
-        'AWS Cloud Engineering ☁️',
-        'Exploring Data Engineering 📊'
+        'Exploring Data Engineering 📊',
+        'AWS Cloud Engineering ☁️'
     ]
     
     def intro(self):
@@ -38,7 +37,6 @@ print(manuel.goal())
 [![DevTools](https://skillicons.dev/icons?i=aws,azure,docker,mongodb,mysql,git,gradle&perline=5)](https://skillicons.dev)
 
 ## 📈 Current Works
-- Building web applications with **Flask** and **Python**
 - Data engineering with tools like **AWS Glue** and **Spark**
 - Backend development and mobile apps with **Java (Spring Boot)** and **Kotlin** 
 
