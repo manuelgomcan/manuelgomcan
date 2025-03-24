@@ -36,11 +36,7 @@ print(manuel.goal())
 ## Development tools, cloud...
 [![DevTools](https://skillicons.dev/icons?i=aws,azure,docker,mongodb,mysql,git,gradle&perline=5)](https://skillicons.dev)
 
-## 📈 Current Works
-- Data engineering with tools like **AWS Glue** and **Spark**
-- Backend development and mobile apps with **Java (Spring Boot)** and **Kotlin** 
 
- 
 If you have any suggestions to this README, feel free to inform me.
     
 <div align="left">
